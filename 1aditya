@@ -1,0 +1,5 @@
+public void main()
+{
+  int a = 10;
+  printf("The integer number is = %d",a);
+}
